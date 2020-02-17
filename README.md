@@ -1,9 +1,40 @@
 # Asus X441UV Hackintosh
 
 Hackintosh resources for Asus X441UV
+
 This is my complete EFI folder to be used for Hackintosh on Notebook Asus X441UV
 
--------
+<img src="/img/macOS-Catalina.png?raw=true" alt="macOS Catalina" align="center">
+
+--------------------------------------------------------------------------------------------
+
+### Notebook Specs
+<img src="/img/x441uv-wx091d.png?raw=true" alt="Asus X441UV" align="right">
+
+- [x] <b>Model</b>: Asus X441UV-WX091D (X441UA Board) 2018
+- [x] <b>CPU</b>: Intel Core i3-6006U (2) @ 2.00GHz (6th Gen)
+- [x] <b>GPU</b>: Intel HD Graphics 520 @ 1536 MB & Nvidia 920MX  @ 1GB
+- [x] <b>RAM</b>: 4GB DDR4 SDRAM @ 2133MHz (upgradable to 12GB)
+- [x] <b>HDD</b>: 512GB SSD SATA SAMSUNG 860 EVO (GUID Partition Table) + 1TB HDD SATA @ 5400rpm (GUID Partition Table)
+- [x] <b>Audio</b>: Realtek ALC255 Rev. 2
+- [x] <b>Wifi</b>: Qualcomm Atheros AR9565
+- [x] <b>Ethernet</b>: Realtek RTL810xE PCI-e Gigabit Ethernet
+- [x] <b>Others</b>: 2 USB3.0 + 1 USB type C ports, Elan 1200 TouchPad, HDMI/VGA, Asus WebCam, 14.0" 16:9 HD (1366x768) LED, Pioneer DVD-RW, (SD/ MS/ MS Pro/ MMC) Card Reader, 3-Cell @3200mAh 36Wh Lithium-ion Battery
+- [x] <b>BIOS</b>: Ver. 309 (Asus).
+
+--------------------------------------------------------------------------------------------
+
+- [x] <b>Model</b>: Asus A43SJ-VX400D (K43SJ Board) 2012
+- [x] <b>CPU</b>: Intel Core i3-2330M (4) @ 2.20GHz (2nd Gen)
+- [x] <b>Chipset</b>: Intel® HM65 Express Chipset
+- [x] <b>GPU</b>: Nvidia GeForce <b>GT 520M</b> (Fermi GF119M) @ 1GB
+- [x] <b>RAM</b>: 4GB DDR3 SDRAM @ 1333MHz (upgradable to 8GB)
+- [x] <b>HDD</b>: 500GB SATA @ 5400rpm (GUID Partition Table)
+- [x] <b>Audio</b>: Realtek ALC269-VB HD Audio Controller
+- [x] <b>Wifi</b>: AzureWave AR9002WB-1NG (Atheros AR9285)
+- [x] <b>Ethernet</b>: Realtek RTL8168BE PCI-e Gigabit Ethernet
+- [x] <b>Others</b>: 1 USB3.0 + 2 USB2.0 ports, Elan PS/2 TouchPad, HDMI/VGA, Asus WebCam, 14.0" 16:9 HD (1366x768) LED, Pioneer DVD-RW, (SD/ MS/ MS Pro/ MMC) Card Reader, 6-Cell @5200mAh 56Wh Lithium-ion Battery
+- [x] <b>BIOS</b>: Ver. 317 (Asus).
 
 ### EFI Contains
 - [x] <b>Clover Bootloader binary, config.plist</b>, drivers for legacy/uefi, themes, etc..
