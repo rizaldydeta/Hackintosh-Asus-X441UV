@@ -2,7 +2,8 @@
 
 Hackintosh resources for Asus X441UV
 This is my complete EFI folder to be used for Hackintosh on Notebook Asus X441UV
-<img src="/img/macOS-Catalina.jpg?raw=true" alt="macOS Catalina" align="center">
+
+<img src="/img/macOS-Catalina.png?raw=true" alt="macOS Catalina" align="center">
 
 -------
 
