@@ -1,6 +1,7 @@
 # Asus X441UV Hackintosh
 
 Hackintosh resources for Asus X441UV
+This is my complete EFI folder to be used for Hackintosh on Notebook Asus X441UV
 
 -------
 
