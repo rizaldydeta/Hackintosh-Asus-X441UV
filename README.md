@@ -14,12 +14,12 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X441UV
 - [x] <b>Model</b>: Asus X441UV-WX091D (X441UA Board) 2018
 - [x] <b>CPU</b>: Intel Core i3-6006U (4) @ 2.00GHz (6th Gen)
 - [x] <b>GPU</b>: Intel HD Graphics 520 @ 1536 MB & Nvidia 920MX  @ 2GB
-- [x] <b>RAM</b>: 4GB DDR4 SDRAM @ 2133MHz + 8GB DDR4 SDRAM @ 2133MHz (upgradable to 16GB)
-- [x] <b>HDD</b>: 512GB SSD SATA SAMSUNG 860 EVO (GUID Partition Table) + 1TB HDD SATA @ 5400rpm (GUID Partition Table)
+- [x] <b>RAM</b>: 4GB DDR4 SDRAM @ 2133MHz (upgradable to 16GB)
+- [x] <b>HDD</b>: 1TB HDD SATA @ 5400rpm (GUID Partition Table)
 - [x] <b>Audio</b>: Realtek ALC255 Rev. 2
 - [x] <b>Wifi</b>: Qualcomm Atheros AR9565
 - [x] <b>Ethernet</b>: Realtek RTL810xE PCI-e Gigabit Ethernet
-- [x] <b>Others</b>: 2 USB3.0 + 1 USB type C ports, Elan 1200 TouchPad, HDMI/VGA, Asus WebCam, 14.0" 16:9 HD (1366x768) LED, Pioneer DVD-RW, (SD/ MS/ MS Pro/ MMC) Card Reader, 3-Cell @3200mAh 36Wh Lithium-ion Battery
+- [x] <b>Others</b>: 1 USB 2.0 + 1 USB 3.0 + 1 USB type C ports, Elan 1200 TouchPad, HDMI/VGA, Asus WebCam, 14.0" 16:9 HD (1366x768) LED, Pioneer DVD-RW, (SD/ MS/ MS Pro/ MMC) Card Reader, 3-Cell @3200mAh 36Wh Lithium-ion Battery
 - [x] <b>BIOS</b>: Ver. 309 (Asus).
 
 --------------------------------------------------------------------------------------------
