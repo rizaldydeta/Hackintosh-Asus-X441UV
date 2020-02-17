@@ -13,7 +13,7 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X441UV
 
 - [x] <b>Model</b>: Asus X441UV-WX091D (X441UA Board) 2018
 - [x] <b>CPU</b>: Intel Core i3-6006U (2) @ 2.00GHz (6th Gen)
-- [x] <b>GPU</b>: Intel HD Graphics 520 @ 1536 MB & Nvidia 920MX  @ 1GB
+- [x] <b>GPU</b>: Intel HD Graphics 520 @ 1536 MB & Nvidia 920MX  @ 2GB
 - [x] <b>RAM</b>: 4GB DDR4 SDRAM @ 2133MHz (upgradable to 12GB)
 - [x] <b>HDD</b>: 512GB SSD SATA SAMSUNG 860 EVO (GUID Partition Table) + 1TB HDD SATA @ 5400rpm (GUID Partition Table)
 - [x] <b>Audio</b>: Realtek ALC255 Rev. 2
