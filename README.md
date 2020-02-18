@@ -2,9 +2,14 @@
 
 Hackintosh resources for Asus X441UV
 
-This is my complete EFI folder to be used for Hackintosh on Notebook Asus X441UV
+This is my complete EFI folder to be used for Hackintosh on Notebook Asus X441UV Series
 
 <img src="/img/macOS-Catalina.png?raw=true" alt="macOS Catalina" align="center">
+
+### How to Get it?
+
+- Open Terminal with Command: $ `git clone https://github.com/rizaldydeta/Hackintosh-Asus-X441UV`
+- Or Just [Clone/Download](https://github.com/rizaldydeta/Hackintosh-Asus-X441UV.git) with Specific Folder Only
 
 --------------------------------------------------------------------------------------------
 
