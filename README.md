@@ -17,7 +17,7 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X441UV
 - [x] <b>RAM</b>: 4GB DDR4 SDRAM @ 2133MHz (upgradable to 16GB)
 - [x] <b>HDD</b>: 1TB HDD SATA @ 5400rpm (GUID Partition Table)
 - [x] <b>Audio</b>: Realtek ALC255 Rev. 2
-- [x] <b>Wifi</b>: Qualcomm Atheros AR9565
+- [x] <b>WiFi</b>: Qualcomm Atheros AR9565
 - [x] <b>Ethernet</b>: Realtek RTL810xE PCI-e Gigabit Ethernet
 - [x] <b>Others</b>: 1 USB 2.0 + 1 USB 3.0 + 1 USB type C ports, Elan 1200 TouchPad, HDMI/VGA, Asus WebCam, 14.0" 16:9 HD (1366x768) LED, Pioneer DVD-RW, (SD/ MS/ MS Pro/ MMC) Card Reader, 3-Cell @3200mAh 36Wh Lithium-ion Battery
 - [x] <b>BIOS</b>: Ver. 309 (Asus).
