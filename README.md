@@ -50,7 +50,7 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Asus X441UV
 --------------------------------------------------------------------------------------------
  
 ### Not Worked / Bugs
-- [ ] Nvidia GT920mx (Nvidia Switchable GPU / Optimus is not supported by Hackintosh)
+- [:heavy_multiplication_x:] Nvidia GT920mx (Nvidia Switchable GPU / Optimus is not supported by Hackintosh)
 - [ ] Bluetooth (Need Boot to Windows First)
 - [ ] Etc
  
